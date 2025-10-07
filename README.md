@@ -21,7 +21,6 @@ A lightweight **Fabric mod** that automatically dumps information about **every 
 |------------|----------|
 | **Minecraft** | 1.21.4 |
 | **Fabric Loader** | ≥ 0.16.9 |
-| **Fabric API** | Latest version |
 
 ---
 
