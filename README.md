@@ -9,9 +9,8 @@ A lightweight **Fabric mod** that automatically dumps information about **every 
 ---
 
 ## ✨ Features
-- 🪶 Lightweight & developer-friendly  
 - 🧾 Automatically detects every `Screen` opened in-game  
-- 💾 Dumps class names, button texts, and hierarchy to `.minecraft/menu_dumps/`  
+- 💾 Dumps class names, button texts, and hierarchy to `/desktop`  
 - ⚙️ Fully compatible with **Fabric Loader ≥ 0.16.9**  
 - 🧠 Helps modders inspect both **vanilla** and **modded** menus  
 
