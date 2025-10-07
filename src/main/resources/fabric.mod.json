@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "mc_menu_dumper",
+  "version": "1.0.0",
+  "name": "MC Menu Dumper",
+  "description": "A client-side Fabric mod that dumps opened menu contents to Desktop/mc-menu.txt",
+  "authors": ["yourname"],
+  "contact": {},
+  "license": "CC0-1.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.yourname.menudumper.MenuDumpClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21",
+    "fabric-api": "*"
+  }
+}
